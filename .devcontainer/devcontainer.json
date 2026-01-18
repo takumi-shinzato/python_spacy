@@ -1,0 +1,4 @@
+{
+  "name": "python-codespace",
+  "postCreateCommand": "pip install spacy ja-ginza"
+}
